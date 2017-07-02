@@ -1,6 +1,6 @@
-*{
+/**{
   outline: 1px dotted blue;
-}
+}*/
 
 .page-boundary{
   min-height: 100%;
@@ -55,6 +55,7 @@
   min-width: 80%;
   background-color:white;
   text-indent: 8%;
+  font-weight: bold;
  }
 
 .image{
@@ -66,15 +67,15 @@
   }
 
 .about-text{
-  font-family: sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 1.2vw;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: 3%;
   margin-right: 10%;
   float:right;
   text-align: center;
   background-color: whitesmoke;
-  padding: 1%;
+  padding: 1.5%;
    
 }
 
@@ -113,6 +114,7 @@
   min-width: 80%;
   background-color:white;
   text-indent: 8%;
+  padding:1%;
 }
 
 .publications{
