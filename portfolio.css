@@ -1,0 +1,131 @@
+*{
+  outline: 1px dotted blue;
+}
+
+.page-boundary{
+  min-height: 100%;
+  min-width: 80%;
+  background-color:lightgray;
+  padding: 0.5%;
+}
+
+.name{
+  height: 15%;
+  min-width: 80%;
+  background-color:white;
+  }
+
+ .name-text{
+   font-size: 3vw;
+   display: inline-block;
+   margin-top: 2%;
+   margin-left: 5%;
+   font-weight: bold;
+   font-family: sans-serif;
+   } 
+
+.research-buttons{
+  height: 8%;
+  min-width: 80%;
+  background-color:white;
+  text-indent: 5%;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 1.2% 1.7%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2vw;
+    cursor: pointer;
+    
+}
+
+.button:hover {
+    background-color: lightgreen;
+    color: white;
+}
+
+
+.image-about{
+  height: 50%;
+  min-width: 80%;
+  background-color:white;
+  text-indent: 8%;
+ }
+
+.image{
+  height: 80%;
+  width: 20%;
+  background-color: coral;
+  display: inline-block;
+  margin-top: 2%;   
+  }
+
+.about-text{
+  font-family: sans-serif;
+  font-size: 1.2vw;
+  display: inline-block;
+  margin-top: 5%;
+  margin-right: 10%;
+  float:right;
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 1%;
+   
+}
+
+.footer{
+  height: 30%;
+  min-width: 80%;
+  background-color: white;
+  
+}
+
+.social-links{
+  height: 50%;
+  width: 20%;
+  display: inline-block;
+  float: left;
+  margin-left: 5%;
+  margin-top: 2%;
+  
+}
+
+.project-button{
+  height: 80%;
+  width: 20%;
+  display: inline-block;
+  margin-left: 4%;
+  margin-top: 1%;
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 1.3vw;
+}
+
+.contact{
+  height: 50%;
+  min-width: 80%;
+  background-color:white;
+  text-indent: 8%;
+}
+
+.publications{
+  height: 50%;
+  min-width: 80%;
+  background-color:white;
+  text-indent: 8%;
+}
+
+.research{
+  height: 50%;
+  min-width: 80%;
+  background-color:white;
+  text-indent: 8%;
+  padding: 2%;
+}
