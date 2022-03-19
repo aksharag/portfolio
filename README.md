@@ -1,3 +1,3 @@
-# portfolio
+# Personal website
 
 A personal-portfolio website
